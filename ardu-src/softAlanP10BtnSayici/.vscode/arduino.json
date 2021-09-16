@@ -1,0 +1,6 @@
+{
+    "port": "COM12",
+    "board": "arduino:avr:nano",
+    "sketch": "softAlanP10BtnSayici.ino",
+    "configuration": "cpu=atmega328old"
+}
