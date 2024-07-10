@@ -1,7 +1,7 @@
 
 <h1 align="center">Hop Jump Ball Game (Button Count) (Hopla Zıpla Topla Oyunu)</h1>
 
-## İçerik
+## Contents
 
 - [Introduction](#Introduction)
 - [How is it working?](#How-is-it-working)
